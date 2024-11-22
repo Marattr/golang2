@@ -13,3 +13,7 @@ func Version1() {
 func Version2() {
 	fmt.Println("version v2")
 }
+
+func Version3() {
+	fmt.Println("version v3")
+}
