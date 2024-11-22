@@ -9,3 +9,7 @@ func catMeow() {
 func Version1() {
 	fmt.Println("version v1")
 }
+
+func Version2() {
+	fmt.Println("version v2")
+}
